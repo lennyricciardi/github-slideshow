@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Let's get this show on the road!"
 Use the left arrow to go back!
